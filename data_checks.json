@@ -1,0 +1,13 @@
+{
+  "order_lines": 4689,
+  "distinct_orders": 2353,
+  "sales": 1079738.11,
+  "profit": 143413.78,
+  "profit_margin": 0.132823,
+  "source_rows": {
+    "Orders 2015.csv": 2102,
+    "Orders 2016.csv": 2587,
+    "Returns.csv": 296,
+    "Managers.csv": 4
+  }
+}
